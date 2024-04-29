@@ -1,6 +1,8 @@
 # P.Square-Tests
 
-Add simple test for verifing signing in and 'Alerts and Notices' tab
+Add a simple test for verifying the 'Alerts and Notices' tab with Sign-in
 Main flow:
-- Verify that the user is sign in ParentSquare (with valid credantials) 
-- Verify that the user is placed on 'Allerts and Notices' tab
+- Verify that the user is signed in to ParentSquare (with valid credentials), the user opened the 'Alerts and Notices' tab
+
+#Usage
+Python3 main.py
